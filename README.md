@@ -38,21 +38,7 @@ This workflow automates:
 
 ![Workflow](workflow.png)
 > Note: Due to Google Places API limitations, each execution processes up to 5 latest reviews. The system is designed to run repeatedly and accumulate data over time.
----
 
-## 📊 Example Output
-
-- Categorized reviews stored in Google Sheets
-- Automated doughnut chart showing distribution
-- Email report with attached visualization
-
----
-
-## ⚙️ Setup Instructions
-
-### 1. Clone repo
-```bash
-git clone https://github.com/YOUR_USERNAME/ai-review-sentiment-automation.git
 ## ⚠️ Current Limitation (Important)
 
 The current implementation retrieves only the **latest 5 Google Maps reviews**.
@@ -160,3 +146,18 @@ This allows:
 - Store unique review IDs
 - Track sentiment changes over time
 - Build time-series dashboard
+---
+
+## 📊 Example Output
+
+- Categorized reviews stored in Google Sheets
+- Automated doughnut chart showing distribution
+- Email report with attached visualization
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone repo
+```bash
+git clone https://github.com/YOUR_USERNAME/ai-review-sentiment-automation.git
