@@ -85,7 +85,7 @@ This hybrid approach enables richer analysis compared to standalone sentiment or
 
 ## 📂 Workflow File
 
-👉 [Download workflow](n8n-workflow.json)
+👉 [Download workflow](workflow.json)
 
 Import this file directly into n8n to run the project.
 
