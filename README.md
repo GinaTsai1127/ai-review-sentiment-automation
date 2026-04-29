@@ -8,7 +8,7 @@ This project is an end-to-end automation pipeline that collects Google Maps revi
 
 This workflow automates:
 
-1. Fetching Google Maps reviews (Brandenburg Gate)
+1. Fetching Google Maps reviews
 2. Cleaning and preparing review text
 3. Classifying reviews into **topic categories using OpenAI (LLM)**
 4. Combining classification with **user rating data (1–5 stars)**
